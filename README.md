@@ -6,4 +6,8 @@ This simple workflow lets you search and open Framer projects in Framer Studio.
 
 Fire Alfred, use the keyword: `fr` + space + `your query` to search for Framer projects, then press enter to open in Framer Studio right away.
 
+##### Author
+
+Fran Pérez [@mrrocks](http://twitter.com/mrrocks)
+
 :bowtie:
