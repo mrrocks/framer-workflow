@@ -1,10 +1,10 @@
 # Framer workflow for Alfred
 
-This simple workflow lets you search and open Framer projects in Framer Studio.
+This simple workflow lets you search and open Framer projects/folders directly in Framer Studio.
 
 ### Instructions
 
-Fire Alfred, use the keyword: `fr` + space + `your query` to search for Framer projects, then press enter to open in Framer Studio right away.
+Fire Alfred, use the keyword: `fr` + space + `project name` to search, then press enter to open it in Framer Studio right away.
 
 ##### Author
 
